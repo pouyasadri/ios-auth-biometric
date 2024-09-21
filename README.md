@@ -114,8 +114,8 @@ No, this project requires iOS 13+, as it leverages SwiftUI and the LocalAuthenti
 Feel free to contribute to this project! You can fork this repository, create a new branch, and submit a pull request.
 
 ## 🔗 Useful Resources
-[Apple’s LocalAuthentication Documentation](https://developer.apple.com/documentation/localauthentication)
-[SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
+- [Apple’s LocalAuthentication Documentation](https://developer.apple.com/documentation/localauthentication)
+- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
 ---
 ##👋 Contact
 If you have any questions or suggestions, feel free to reach out:
